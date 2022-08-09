@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "168664091782",
+    "project_id": "form-login-apk",
+    "storage_bucket": "form-login-apk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168664091782:android:41a3784e7795edf49f5507",
+        "android_client_info": {
+          "package_name": "com.example.formloginapk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168664091782-1e5jm96snngcn21gg6s5st3out09s29p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMi1q8rAPE3thIumyU-oC0zDQoevusZnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168664091782-1e5jm96snngcn21gg6s5st3out09s29p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
